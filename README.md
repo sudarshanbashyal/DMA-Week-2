@@ -13,5 +13,5 @@ The changes included variations to the layout across different orientations/size
 <img src="gifs/tablet_horizontal_layout.gif" width="600" />
 
 ## Vertical Layout - Tablet Screen
-<img src="gifs/tablet_vertical_layout.gif" width="600" />
+<img src="gifs/tablet_vertical_layout.gif" width="300" />
 
