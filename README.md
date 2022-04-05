@@ -3,6 +3,8 @@
 The homework for this week was to make some additional changes to the previous week's tasks.
 The changes included variations to the layout across different orientations/sizes and also adding an extra feature that would change the current count to 0.
 
+** This branch has also been merged with the master branch **
+
 ## Horizontal Layout - Normal Screen
 <img src="gifs/horizontal_layout.gif" width="600"/>
 
